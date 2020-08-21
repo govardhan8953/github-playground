@@ -11,4 +11,4 @@ def main(n):
         else:
             break
 
-main(1000)
+main(10)
